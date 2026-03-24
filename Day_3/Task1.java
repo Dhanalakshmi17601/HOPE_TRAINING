@@ -1,3 +1,4 @@
+package Day_3;
 class Product {
     int id;
     String name;
