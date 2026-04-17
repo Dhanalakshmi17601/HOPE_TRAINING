@@ -1,0 +1,3 @@
+Write using BufferedWriter1
+Write using BufferedWriter2
+Write using BufferedWriter3
