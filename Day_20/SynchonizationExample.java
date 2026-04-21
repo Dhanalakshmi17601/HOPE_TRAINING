@@ -2,7 +2,8 @@
 class Bank {
     int balance = 1000;
 
-    synchronized void withdraw(int amount) {
+    synchronized 
+    void withdraw(int amount) {
         if (amount <= balance) {
             System.out.println("Amount Withdraw Successful");
             balance-=amount;
